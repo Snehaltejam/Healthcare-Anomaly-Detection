@@ -7,7 +7,6 @@ from dataclasses import dataclass
 from training.offline.logging_utils import configure_logging
 from training.offline.train_offline import train_from_csv_safe
 
-
 @dataclass(frozen=True)
 class Settings:
     environment: str = os.getenv("APP_ENV", "local")
