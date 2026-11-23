@@ -14,7 +14,6 @@ from typing import Iterable
 from kafka import KafkaProducer
 from kafka.errors import KafkaError
 
-
 logger = logging.getLogger(__name__)
 
 TOPIC_NAME = "patient_vitals"
