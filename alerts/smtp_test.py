@@ -11,7 +11,6 @@ load_dotenv(Path(__file__).resolve().parent / ".env")
 SMTP_HOST = "smtp.gmail.com"
 SMTP_PORT = 587
 
-
 def main() -> None:
     email_address = os.getenv("EMAIL_ADDRESS")
     email_password = os.getenv("EMAIL_PASSWORD")
