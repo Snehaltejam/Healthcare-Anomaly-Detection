@@ -9,7 +9,6 @@ import psycopg2
 from flask import Flask, jsonify
 from psycopg2.extras import RealDictCursor
 
-
 app = Flask(__name__)
 logger = logging.getLogger(__name__)
 
