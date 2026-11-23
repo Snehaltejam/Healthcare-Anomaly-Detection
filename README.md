@@ -46,7 +46,7 @@ Integrated with Kafka streaming, PostgreSQL storage, dashboard visualization, an
 
 ---
 
-## 📂 Project Structure
+
 ## 📂 Project Structure
 
 ```text
