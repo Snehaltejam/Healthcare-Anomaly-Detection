@@ -79,8 +79,8 @@ ai-anomaly-platform/
 ## ⚙ Setup
 
 ```bash
-git clone https://github.com/snehxa27/ai-anomaly-platform.git
-cd ai-anomaly-platform
+git clone https://github.com/snehaltejam/healthcare-anomaly-detection.git
+cd healthcare-anomaly-detection
 python -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
@@ -104,3 +104,4 @@ Real-time dashboard updates
 
 Snehal Tejam
 B.Tech Data Science
+DYPSN Kolhapur
